@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MPProject by packages]" guice-stage="DEVELOPMENT">
+  <test name="MPP.MPPProject(failed)">
+    <classes>
+      <class name="MPP.MPPProject.MPPWEb">
+        <methods>
+          <include name="setUp"/>
+          <include name="testGooglePageTitleInIEBrowser"/>
+        </methods>
+      </class> <!-- MPP.MPPProject.MPPWEb -->
+    </classes>
+  </test> <!-- MPP.MPPProject(failed) -->
+</suite> <!-- Failed suite [MPProject by packages] -->
